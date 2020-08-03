@@ -5,4 +5,4 @@
 ### Interest
 * 🛠 **Software & Machine Learning Engineering**
 * 📝 **Deep Learning Research**
-* ⚡ **Software Operations**
+* ⚡ **Service Operation**
