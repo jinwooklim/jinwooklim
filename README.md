@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🏢 I'm a **Technical Research Personnel (National Military Service)**.
+- 🏢 I am working as a **Technical Research Personnel (National Military Service)**.
 
 ### Interest
-* 🛠 **Software & Machine Learning Engineering**
+* 🛠 **Software & ML/DL Engineering**
 * 📝 **Deep Learning Research**
 * ⚡ **Service Operation**
