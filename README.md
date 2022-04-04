@@ -3,7 +3,7 @@
 <p align="center"> Interests that I am currently interested in </p>
 <p align="center"> 📸 Computer Vision </p>
 <p align="center"> ⚡ Deep Learning </p>
-<p align="center"> 🖥️ Intelligent Microservices </p>
+<p align="center"> 🖥️ Machine Learning Operations </p>
 <p align="center"> 🚗 Mobility </p>
 <br>
 
