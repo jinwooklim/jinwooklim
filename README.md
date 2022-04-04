@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Jinwook%20Lim&fontSize=90&animation=twinkling)
 <h3 align="center">📝 Research Interests 📝</h3>
 <p align="center"> Interests that I am currently interested in </p>
-<p align="center"> 🖥️ Computer Vision </p>
+<p align="center"> 📸 Computer Vision </p>
 <p align="center"> ⚡ Deep Learning </p>
-<p align="center"> 🚗 Mobility & Intelligent Microservices </p>
+<p align="center"> 🖥️ Intelligent Microservices </p>
+<p align="center"> 🚗 Mobility </p>
 <br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
